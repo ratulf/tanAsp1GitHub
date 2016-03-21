@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: au-syd.mybluemix.net
+  name: tanAspTest1
+  host: tanasptest1
+  disk_quota: 1024M
